@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Johan Djäken]]></title>
         <description><![CDATA[Johan Djäken]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johan-djaeken/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 21:06:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 21:12:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johan-djaeken/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet dictum tempor. Proin dignissim dui a vestibulum pellentesque. Sed tempus metus dictum ex interdum, a tempus sapien porta. Pellentesque maximus risus leo, non auctor lectus tristique eu. Etiam iaculis sem id lorem sollicitudin, vitae faucibus justo pellentesque. Vivamus vitae metus efficitur, lacinia enim non, tempor risus. Proin lobortis dolor ut lobortis placerat. Suspendisse ut venenatis sem, at rutrum urna.</p>]]></description>
+            <link>https://thegrid.ai/johan-djaeken/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-in/index.html</link>
+            <guid isPermaLink="false">24a703c4-882e-4797-a8a5-226a3e176dcd</guid>
+            <pubDate>Thu, 05 May 2016 21:10:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c926b16-651a-4b9b-8b29-ab16addd036d.jpg">]]></description>
-            <link>undefined8c265e54-4fc4-4a85-8ab9-fc5e835c10a7/index.html</link>
+            <link>https://thegrid.ai/johan-djaeken/8c265e54-4fc4-4a85-8ab9-fc5e835c10a7/index.html</link>
             <guid isPermaLink="false">8c265e54-4fc4-4a85-8ab9-fc5e835c10a7</guid>
             <pubDate>Thu, 05 May 2016 21:06:16 GMT</pubDate>
         </item>
